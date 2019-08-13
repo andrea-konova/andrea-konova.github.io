@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+/* Решение номер 1 рабочее, но нужно знать width и height элемента */
+
+ .task-2 {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -150px;
+	border: 2px solid gray;
+	padding: 20px 30px 20px 30px;
+}
+
+ /* Решение номер 2 надо довести до ума*/
+
+ /* .task-2 {
+ 	width: 300px;
+ 	height: 400px;
+ 	margin-top: 50%; 
+ 	margin-left: 50%;
+ 	transform: translateX(-50%);
+ 	transform: translateY(-50%);
+ 	border: 2px solid gray;
+ }  */
+
+ /* Решение номер 3 по высоте надо додумать*/
+
+/*  .task-2 {
+	width: 300px;
+	height: 400px;
+	position: relative;
+	margin: auto;
+	border: 2px solid gray;
+}  */
