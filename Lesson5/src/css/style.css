@@ -1,0 +1,52 @@
+@import url('main.css');
+
+body {
+	background: #FFE4C4;
+}
+
+img {
+	position: relative;
+	left: 50%;
+	margin-left: -363px;
+	border: 5px solid #696969;
+}
+
+h1, h2, h3, h4 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h4 {
+	background: #CD853F;
+	color: #000000;
+	border: solid #696969;
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+.text-1 {
+	font-weight: bold;
+}
+
+.text-2 {
+	font-style: italic;
+}
+
+.text-3 {
+	font-style: oblique;
+}
+.text-4 {
+	font-weight: lighter;
+}
+
+.text-5 p {
+	text-decoration: underline;
+}
+
+.text-6 p {
+	text-decoration: line-through;
+}
+
