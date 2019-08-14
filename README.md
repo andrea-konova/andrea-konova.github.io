@@ -25,3 +25,5 @@
 [Урок 11](https://andrea-konova.github.io/Lesson9/src/ "Дз по уроку 11") - Сниппеты
 
 [Урок 12](https://andrea-konova.github.io/Lesson12/src/ "Дз по уроку 12") - Работа с репозиторием GitHub
+
+[Урок 13](https://andrea-konova.github.io/Lesson13/src/ "Дз по уроку 1") - Pixel Perfect верстка
