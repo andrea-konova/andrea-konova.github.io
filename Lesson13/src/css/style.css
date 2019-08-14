@@ -1,0 +1,80 @@
+ * {
+	box-sizing: border-box;
+}
+ body {
+	background-color: #282828;
+	text-align: center;
+} 
+.box {
+	width: 570px;
+	height: 570px;
+	background-color: #ebf4f4;
+	position: absolute;
+	left: 50%;
+	margin-left: -285px;
+}
+.header-form {
+	width: 150px;
+	height: 25px;
+	margin-left: 30px;
+	background-color: #01b3b3;
+	margin-bottom: 33px;
+}
+.header-form h2 {
+	text-transform: uppercase;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: 750;
+	color: #ffffff;
+	margin-top: -2px;
+	margin-bottom: 0px;
+	padding-top: 6px;
+}
+.form {
+	width: 320px;
+	height: 370px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 125px;
+	background-color: #ffffff;
+}
+.form span {
+	color: #01b3b3;
+}
+.form p {
+	margin-top: 20px;
+	margin-left: 30px;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: 750;
+	text-align: left;
+	line-height: 100%;
+}
+p {
+	margin: 0px;
+}
+.form input {
+	margin-top: 12px;
+	width: 260px;
+	height: 30px;
+	background-color: #ebf4f4;
+	padding-left: 14px;
+	font-style: italic;
+	font-size: 12px;
+	outline: none;
+	border-radius: 2px;
+}
+.form button {
+	width: 260px;
+	height: 46px;
+	background-color: #01bcbc;
+	border-radius: 5px;
+	margin-top: 35px;
+}
+.form button strong {
+	text-transform: uppercase;
+	font-family: arial;
+	font-size: 16px;
+	font-weight: 750;
+	color: #ffffff;
+}
