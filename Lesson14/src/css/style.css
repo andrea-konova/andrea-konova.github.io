@@ -1,0 +1,22 @@
+/*Подключение 3*/
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap&subset=cyrillic');  
+ *//*Подключение 1 (и Подключение 2), (и Подключение 3)*/
+/* body {
+	font-family: 'Open Sans', sans-serif;
+} */
+
+/*Подключение 4 через сгенерированный шрифт*/
+@font-face {
+    font-family: 'Museo Sans Cyrl 900';
+    src: url('../fonts/MuseoSansCyrl-900.eot');
+    src: url('../fonts/MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl-900.woff2') format('woff2'),
+        url('../fonts/MuseoSansCyrl-900.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl-900.ttf') format('truetype'),
+        url('../fonts/MuseoSansCyrl-900.svg#MuseoSansCyrl-900') format('svg');
+    font-weight: bold;
+    font-style: normal;
+} 
+p {
+	font-family: 'Museo Sans Cyrl 900', sans-serif;
+} 
