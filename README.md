@@ -28,6 +28,6 @@
 
 [Урок 13](https://andrea-konova.github.io/Lesson13/src/ "Дз по уроку 13") - Pixel Perfect верстка
 
-[Урок 14](https://andrea-konova.github.io/Lesson13/src/ "Урок 14") - Подключение шрифтов
+[Урок 14](https://andrea-konova.github.io/Lesson14/src/ "Урок 14") - Подключение шрифтов
 
-[Урок 14_home](https://andrea-konova.github.io/Lesson13/src/ "Дз по уроку 14") - Подключение шрифтов дз
+[Урок 14_home](https://andrea-konova.github.io/Lesson14_home/src/ "Дз по уроку 14") - Подключение шрифтов дз
