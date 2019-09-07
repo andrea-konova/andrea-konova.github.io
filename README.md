@@ -31,3 +31,5 @@
 [Урок 14](https://andrea-konova.github.io/Lesson14/src/ "Урок 14") - Подключение шрифтов
 
 [Урок 14_home](https://andrea-konova.github.io/Lesson14_home/src/ "Дз по уроку 14") - Подключение шрифтов дз
+
+[Урок 16](https://andrea-konova.github.io/Lesson16/src/ "Дз по уроку 16") - Слайдеры
