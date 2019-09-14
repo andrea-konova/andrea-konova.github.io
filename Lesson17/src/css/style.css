@@ -1,0 +1,28 @@
+.container {
+	text-align: center;
+}
+.modal-dialog {
+	border: 65px solid #201b21;
+	border-radius: 5px;
+}
+.modal-header {
+	background-color: #382a37;
+}
+.close {
+	color: #faf6f7;
+}
+.modal-title {
+	color: white;
+	font-weight: 700;
+}
+.modal-body {
+	color: #757575;
+	font-weight: 700;
+	margin: 5px 0;
+}
+.modal-footer {
+	text-align: left;
+}
+.modal-footer button {
+	text-align: left;
+}

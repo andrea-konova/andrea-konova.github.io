@@ -1,0 +1,40 @@
+body {
+	background: url(../img/bg.jpg) no-repeat;
+	text-align: center;
+}
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	color: #0bbaf0;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 36pt;
+	margin-top: 80px;
+}
+p {
+	font-family: 'Ubuntu', sans-serif ;
+	color: #0bbaf0;
+	text-transform: uppercase;
+	font-size: 24pt;
+	margin-bottom: 50px;
+}
+.panel-default>.panel-heading {
+	color: #ffffff;
+	background-color: #0bbaf0;
+}
+.panel-heading {
+	padding: 10px 10px 5px 10px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
+.panel-title {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 19pt;
+}
+.panel-body {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18pt;
+	text-align: left;
+	padding-left: 30px;
+	padding-bottom: 40px;
+	border-bottom-left-radius: 10px;	
+}

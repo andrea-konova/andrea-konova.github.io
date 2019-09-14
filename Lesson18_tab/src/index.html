@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>Табы на сайте - урок 18 дз 1</title>
+
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+  </head>
+
+  <body>
+
+	<div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <div>
+
+                  <!-- Nav tabs -->
+                  <ul class="nav nav-tabs">
+                    <li role="presentation" class="active">
+                        <a href="#entrance" data-toggle="tab">Вход</a>
+                    </li>
+                    <li>
+                        <a href="#check_in" data-toggle="tab">Регистрация</a>
+                    </li>
+                  </ul>
+
+                  <!-- Tab panes -->
+                  <div class="tab-content">
+                    <div class="tab-pane active" id="entrance">
+                        <form action="#">
+                            <input class="input" type="text" placeholder="Ваше имя">
+                            <input class="input" type="password" placeholder="Пароль">
+                            <p>Забыли пароль?</p>
+                            <div class="wrap">
+                                <div class="checkboxes">
+                                    <label ><input type="checkbox"/> <span>Напомнить мне</span></label>
+                                </div>
+                                <button>Войти</button>
+                            </div>
+                            
+                        </form>      
+                    </div>
+                    <div class="tab-pane" id="check_in">
+                        
+                    </div>
+                  </div>
+
+            </div>
+            </div>
+        </div> 
+	</div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

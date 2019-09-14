@@ -1,0 +1,81 @@
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('../fonts/8143.eot');
+	src: local('☺'), url('../fonts/8143.woff') format('woff'), url('../fonts/8143.ttf') format('truetype'), url('../fonts/8143.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+    font-family: 'MyriadPro', sans-serif;
+    font-size: 24pt;
+}
+.container {
+	background: url(../img/bg.jpg) center;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	background-color: #03a3d8;
+	color: #fff;
+}
+.tab-content {
+	border: 20px solid #03a3d8;
+	border-radius: 10px;
+}
+li {
+	background-color: #fff;
+}
+a {
+	color: #080808;
+}
+form {
+	background-color: #000;
+	border-radius: 10px;
+	padding-top: 40px;
+	margin-bottom: 60px;
+}
+p {
+	font-size: 15pt;
+	color: #c51f03;
+	margin: 20px 0 0 70px;
+}
+input {
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	width: 90%;
+	height: 60px;
+	margin-top: 30px;
+	margin-left: 40px;
+	background-color: #1e1d1d;
+	padding-left: 20px;
+
+}
+.checkboxes {
+	margin: 60px 0 40px 70px;
+}
+.checkboxes label {
+	display: inline-block;
+	padding-right: 10px;
+	white-space: nowrap;
+	font-size: 15pt;
+	color: #656363;
+}
+.checkboxes input {
+	vertical-align: middle;
+	height: 15px;
+	width: 15px;
+}
+.checkboxes label span {
+	vertical-align: middle;
+}
+button {
+	background: url(../img/btn-bg.jpg);
+	outline: none;
+	border: none;
+	height: 40px;
+	width: 130px;
+	color: #fff;
+	display: block;
+	margin-top: -70px;
+	float: right;
+	
+}
