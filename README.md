@@ -40,4 +40,4 @@
 
 [Урок 18_tab](https://andrea-konova.github.io/Lesson18_tab/src/ "Дз по уроку 18_tab") - Табы на сайте
 
-[Урок 18_accordion](https://andrea-konova.github.io/Lesson18_tab/src/ "Дз по уроку 18_accordion") -Аккордеон на сайте
+[Урок 18_accordion](https://andrea-konova.github.io/Lesson18_accordion/src/ "Дз по уроку 18_accordion") -Аккордеон на сайте
