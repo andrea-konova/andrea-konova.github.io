@@ -32,6 +32,12 @@
 
 [Урок 14_home](https://andrea-konova.github.io/Lesson14_home/src/ "Дз по уроку 14") - Подключение шрифтов дз
 
-[Урок 15](https://andrea-konova.github.io/Lesson15/src/ "Урок 15") - Псевдоклассы и псевдоэлементы
+[Урок 15](https://andrea-konova.github.io/Lesson15/src/ Дз по уроку 15") - Псевдоклассы и псевдоэлементы
 
 [Урок 16](https://andrea-konova.github.io/Lesson16/src/ "Дз по уроку 16") - Слайдеры
+
+[Урок 17](https://andrea-konova.github.io/Lesson17/src/ "Дз по уроку 17") - Всплывающие окна
+
+[Урок 18_tab](https://andrea-konova.github.io/Lesson18_tab/src/ "Дз по уроку 18_tab") - Табы на сайте
+
+[Урок 18_accordion](https://andrea-konova.github.io/Lesson18_tab/src/ "Дз по уроку 18_accordion") -Аккордеон на сайте
